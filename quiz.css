@@ -1,0 +1,66 @@
+
+body {
+  font-size: 13px;
+  line-height: 19px;
+  color: #111;
+  font-family: Arial,sans-serif;
+}
+h1 {
+  text-align: center;
+  border: 1px dotted lightgray;
+  margin: 0;
+  padding: 0;
+}
+p {
+  text-align: justify;
+  margin: 10px 5px;
+  line-height: 1em;
+}
+ul {
+  list-style: none;
+}
+h3 {
+  margin: 0 5px -15px 5px;
+}
+
+.card {
+  border: 1px solid lightblue;
+  float: left;
+  width: 30%;
+  margin: 5px;
+  background-color: white;
+ }
+.pics {
+  height: 125px;
+  width: 125px;
+  display: block;
+  margin: auto;
+ }
+.availible {
+  background-color: darkgray;
+  color: yellow;
+  font-weight: bold;
+  margin: 0;
+  padding: 2px;
+ }
+.pricing {
+  font-size: 1.75em;
+  font-weight:normal;
+  line-height:0.8em;
+  margin: 0 0 -10px 5px;
+}
+.specs {
+  font-weight: bold;
+  font-size: 0.9em;
+  margin: -3px 0 0 -1.75em; 
+
+}
+ .cost {
+  font-weight: bold;
+  margin: -3px 0 0 -1.75em;
+ }
+ .footer {
+  font-size: 0.75em;
+  padding: 0;
+  margin: 0 0 5px 0;
+ }
